@@ -1,0 +1,2 @@
+Git directories cannot be empty
+Git will track of all files and not directories, and in case if directories are empty it will not track.
