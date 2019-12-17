@@ -7,6 +7,5 @@ ANSIBLE
 AWS PART 2
 DOCKER
 KUBERNETES
-TERRAFORM - Changed heree
-
-lkjlkdlkldlldlkd
+TERRAFORM 
+Line added and modified
